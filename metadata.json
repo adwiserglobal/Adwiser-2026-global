@@ -1,0 +1,8 @@
+{
+  "name": "Adwiser",
+  "description": "Plataforma de Mídia para centralizar métricas e comparar o desempenho das campanhas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
